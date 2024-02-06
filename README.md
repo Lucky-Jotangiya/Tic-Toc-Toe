@@ -1,4 +1,4 @@
-# final_tictoctoe
+# Tic-Toc-Toe
 
 A new Flutter project.
 
